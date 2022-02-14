@@ -1,0 +1,15 @@
+{
+    "wallpapers": [
+        {"image_res_name": "net.oneplus.wallpaperresources:drawable/wallpaper_sample"},
+        {
+            "image_res_name": "net.oneplus.wallpaperresources:drawable/wallpaper_sample",
+            "fod_video_file_name" : "wallpaper_sample.mp4",
+            "fod_video_first_frame" : "net.oneplus.wallpaperresources:drawable/wallpaper_sample_f1"
+        }
+    ],
+    "default_wallpaper": {
+        "image_res_name": "net.oneplus.wallpaperresources:drawable/wallpaper_sample",
+        "fod_video_file_name" : "wallpaper_sample.mp4",
+        "fod_video_first_frame" : "net.oneplus.wallpaperresources:drawable/wallpaper_sample"
+    }
+}
